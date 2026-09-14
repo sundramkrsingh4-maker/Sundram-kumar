@@ -1,0 +1,1 @@
+console.log('Development seed placeholder: connect MongoDB and persist the sample data before production. Demo credentials: student/sundram123, abhay/sundram123, admin/sundram123. CHANGE BEFORE PRODUCTION.');
